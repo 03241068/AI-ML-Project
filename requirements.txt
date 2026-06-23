@@ -1,4 +1,4 @@
-# ICST AI Food Ordering System — runtime dependencies for the web app (app.py)
+# ICST AI Food Ordering System — runtim dependencies for the web app (app.py)
 # werkzeug (password hashing) and itsdangerous (signed tokens) ship with Flask.
 Flask>=3.0
 Flask-CORS>=4.0
